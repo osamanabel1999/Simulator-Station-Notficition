@@ -1,6 +1,6 @@
 {
   "update": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "title": "New Update Available",
     "features": [
       "Added interactive map rendering.",
