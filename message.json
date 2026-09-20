@@ -1,5 +1,16 @@
 {
-  "show": true,
-  "title": "إشعار هام",
-  "body": "هنا تقدر تكتب أي رسالة للمستخدمين براحتك."
+  "update": {
+    "latest_version": "1.0.1",
+    "title": "New Update Available",
+    "features": [
+      "Added interactive map rendering.",
+      "Improved overall performance.",
+      "Fixed minor bugs and issues."
+    ]
+  },
+  "announcement": {
+    "message_id": 1,
+    "title": "System Notice",
+    "body": "We are optimizing our servers. You might experience slight delays in fetching weather data."
+  }
 }
