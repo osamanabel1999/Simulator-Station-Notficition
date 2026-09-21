@@ -13,11 +13,11 @@
   },
   "promo_banner": {
     "show": true,
-    "banner_id": 1,
-    "image_url": "https://example.com/your-image.png",
-    "title": "Special Announcement",
-    "body": "Check out our new feature guide and simulator tips!",
+    "banner_id": 2,
+    "image_url": "https://raw.githubusercontent.com/osamanabel1999/App-assets/refs/heads/main/IMG_3839.png",
+    "title": "New feature",
+    "body": "Experience ultimate realism: Head Tracking via camera is now live on Simulator Station.",
     "button_text": "Explore Now",
-    "button_link": "https://your-custom-link.com"
+    "button_link": ""
   }
 }
