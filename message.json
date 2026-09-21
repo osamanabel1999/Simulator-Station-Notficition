@@ -8,8 +8,8 @@
   },
   "announcement": {
     "message_id": 2,
-    "title": "Server Maintenance",
-    "body": "We are currently fixing a server issue."
+    "title": "New features",
+    "body": "Check out new features"
   },
   "promo_banner": {
     "show": true,
