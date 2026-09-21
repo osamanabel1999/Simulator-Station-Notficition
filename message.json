@@ -9,7 +9,7 @@
     ]
   },
   "announcement": {
-    "message_id": 1,
+    "message_id": 2,
     "title": "System Notice",
     "body": "We are optimizing our servers. You might experience slight delays in fetching NOTAM data."
   }
