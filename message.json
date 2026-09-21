@@ -1,18 +1,18 @@
 {
   "update": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "title": "New Update Available",
     "features": [
       "Added interactive map rendering."
     ]
   },
   "announcement": {
-    "message_id": 2,
-    "title": "New features",
-    "body": "Check out new features"
+    "message_id": 5,
+    "title": "A New Era for Simulator Station ",
+    "body": "Welcome to the ultimate flight simulation experience! We've completely rebuilt the app with a stunning Dark EFB UI, AI-powered NOTAMs, interactive Virtual Crew, precision Performance Calculators, and next-gen 3D Globe maps. Your cockpit is ready."
   },
   "promo_banner": {
-    "show": true,
+    "show": false,
     "banner_id": 2,
     "image_url": "https://raw.githubusercontent.com/osamanabel1999/App-assets/refs/heads/main/IMG_3839.png",
     "title": "New feature",
