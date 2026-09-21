@@ -1,16 +1,23 @@
 {
   "update": {
-    "latest_version": "1.0.2",
-    "title": "New Update Available1",
+    "latest_version": "1.0.1",
+    "title": "New Update Available",
     "features": [
-      "Added interactive map rendering.",
-      "Improved overall performance.",
-      "Fixed minor bugs and issues."
+      "Added interactive map rendering."
     ]
   },
   "announcement": {
     "message_id": 2,
-    "title": "System Notice",
-    "body": "We are optimizing our servers. You might experience slight delays in fetching NOTAMs data."
+    "title": "Server Maintenance",
+    "body": "We are currently fixing a server issue."
+  },
+  "promo_banner": {
+    "show": true,
+    "banner_id": 1,
+    "image_url": "https://example.com/your-image.png",
+    "title": "Special Announcement",
+    "body": "Check out our new feature guide and simulator tips!",
+    "button_text": "Explore Now",
+    "button_link": "https://your-custom-link.com"
   }
 }
