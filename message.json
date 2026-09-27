@@ -1,9 +1,14 @@
 {
-  "update": {
-    "latest_version": "1.0.3",
-    "title": "New Update Available",
-    "features": [
-      "Added interactive map rendering."
+‏  "update": {
+‏    "latest_version": "1.0.3",
+‏    "title": "Massive Update Available",
+‏    "features": [
+‏      "Real-time Head Tracking via your device's camera.",
+‏      "AI Dispatcher for realistic voice flight briefings.",
+‏      "Virtual Co-Pilot for interactive voice checklists.",
+‏      "Authentic EFB with Calculator, File Bag & In-App Browser.",
+‏      "Realistic Cabin PA Announcements for all flight phases.",
+‏      "Stunning new glassmorphism UI and massive performance upgrades."
     ]
   },
   "announcement": {
