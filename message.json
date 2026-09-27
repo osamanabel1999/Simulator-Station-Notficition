@@ -1,6 +1,6 @@
 {
   "update": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.3",
     "title": "New Update Available",
     "features": [
       "Added interactive map rendering."
@@ -12,11 +12,11 @@
     "body": "Welcome to the ultimate flight simulation experience! We have completely rebuilt the app with a stunning Dark EFB UI, AI-powered NOTAMs, interactive Virtual Crew, precision Performance Calculators, and next-gen 3D Globe maps.\n\nIMPORTANT FOR MSFS USERS: To ensure all new features function flawlessly and to avoid any broken connections, you must download the latest version of the Simulator Station Bridge. You can find the new bridge in the MSFS Documentations section. Update your bridge now, and your cockpit is ready."
   },
   "promo_banner": {
-    "show": false,
-    "banner_id": 2,
-    "image_url": "https://raw.githubusercontent.com/osamanabel1999/App-assets/refs/heads/main/IMG_3839.png",
+    "show": true,
+    "banner_id": 4,
+    "image_url": "https://raw.githubusercontent.com/osamanabel1999/App-assets/refs/heads/main/IMG_3855.png",
     "title": "New feature",
-    "body": "Experience ultimate realism: Head Tracking via camera is now live on Simulator Station.",
+    "body": "Goodbye to traditional camera controls! Now, your device's camera will track your head movements and translate them directly into the simulator in real-time.",
     "button_text": "Explore Now",
     "button_link": ""
   }
