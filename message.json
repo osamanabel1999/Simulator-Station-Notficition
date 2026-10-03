@@ -1,27 +1,27 @@
 {
   "update": {
-    "latest_version": "1.0.3",
-    "title": "Massive Update Available",
+    "latest_version": "1.0.4",
+    "title": "MAJOR UPDATE: The Ultimate Training & Datalink Experience",
     "features": [
-      "Real-time Head Tracking via your device's camera.",
-      "AI Dispatcher for realistic voice flight briefings.",
-      "Virtual Co-Pilot for interactive voice checklists.",
-      "Authentic EFB with Calculator, File Bag & In-App Browser.",
-      "Realistic Cabin PA Announcements for all flight phases.",
-      "Stunning new glassmorphism UI and massive performance upgrades."
+      "LIVE Instructor Operating Station (IOS) with real-time zero-latency cockpit screen sharing and audio.",
+      "Instant Aircraft Repositioning by instructors to practice complex approaches and procedures on the fly.",
+      "Dynamic Failure Injection system allowing instructors to silently trigger unexpected emergencies mid-flight.",
+      "Fully Functional ACARS & CPDLC Datalink with seamless VATSIM and IVAO network integration.",
+      "TELEX Free-Text Messaging to ATC and live network traffic, plus one-tap Quick ATC Requests.",
+      "Authentic CPDLC Station to respond to urgent ATC instructions and file Oceanic Position Reports."
     ]
   },
   "announcement": {
     "message_id": 6,
-    "title": "A New Era & Important Update",
-    "body": "Welcome to the ultimate flight simulation experience! We have completely rebuilt the app with a stunning Dark EFB UI, AI-powered NOTAMs, interactive Virtual Crew, precision Performance Calculators, and next-gen 3D Globe maps.\n\nIMPORTANT FOR MSFS USERS: To ensure all new features function flawlessly and to avoid any broken connections, you must download the latest version of the Simulator Station Bridge. You can find the new bridge in the MSFS Documentations section. Update your bridge now, and your cockpit is ready."
+    "title": "A Complete Game-Changer is Here!",
+    "body": "Get ready to take your flight simulation experience to an unprecedented level! We are bringing 100% authentic airline datalink operations and a revolutionary Instructor Operating Station directly to your fingertips. Share your live cockpit with an instructor, master complex IFR procedures, send TELEX messages, and respond to ATC via our true-to-life CPDLC interface.\n\nIMPORTANT: To unlock these groundbreaking features and maintain a stable connection, you MUST download the latest Simulator Station Bridge and Broadcast files from the Documentation section. Update your bridge now and see you in the virtual skies!"
   },
   "promo_banner": {
-    "show": false,
+    "show": true,
     "banner_id": 4,
-    "image_url": "https://raw.githubusercontent.com/osamanabel1999/App-assets/refs/heads/main/IMG_3855.png",
-    "title": "New feature",
-    "body": "Goodbye to traditional camera controls! Now, your device's camera will track your head movements and translate them directly into the simulator in real-time.",
+    "image_url": "https://raw.githubusercontent.com/osamanabel1999/Sim-app-Assests/refs/heads/main/IMG_3879.png",
+    "title": "Study-Level ACARS & CPDLC",
+    "body": "Say goodbye to typing long messages in chat boxes. Send TELEX messages, request clearances, and respond to ATC instantly with our authentic datalink architecture.",
     "button_text": "Explore Now",
     "button_link": ""
   }
