@@ -2,7 +2,7 @@
   "new_pass": true,
   "ios": {
     "update": {
-      "latest_version": "1.0.4",
+      "latest_version": "1.0.5",
       "title": "The Ultimate Simulator Station Update",
       "features": [
         "Ultimate Weather Engine: Inject live METARs, custom scenarios, or intense microbursts.",
