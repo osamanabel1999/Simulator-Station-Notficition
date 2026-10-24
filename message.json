@@ -5,18 +5,18 @@
       "latest_version": "1.0.5",
       "title": "The Ultimate Simulator Station Update",
       "features": [
-        "Ultimate Weather Engine: Inject live METARs, custom scenarios, or intense microbursts.",
-        "Complete Ground Handling & GSX: Control boarding, pushback, and all ground vehicles seamlessly.",
-        "Advanced Failure Management: Over 130 realistic system failures, now available for MSFS 2020/2024.",
-        "Interactive TCAS & AI Traffic: Inject traffic, practice wake turbulence, and handle runway incursions.",
-        "Advanced Flight Analysis: Review telemetry graphs, touchdown points, and get deep landing evaluations.",
-        "Instant World Tour Mode: Teleport to over 30 iconic global landmarks with a single tap."
+        "Ultimate Weather Engine: Take absolute command of the skies. Inject live real-world METAR data, build custom conditions, or trigger intense scenarios like severe windshear.",
+        "Complete Ground Handling & GSX: Turnarounds are now incredibly immersive. Seamlessly manage pushback, boarding, and all ground vehicles with full GSX integration.",
+        "Advanced Failure Management: Test your airmanship with over 130 meticulously simulated system failures, now officially supported for MSFS 2020/2024.",
+        "Interactive TCAS & Traffic Injection: Inject custom AI traffic, configure precise crossing scenarios, practice wake turbulence, and handle surprise runway incursions.",
+        "Advanced Flight Analysis: Perfect your landings with deep performance grading. Review beautiful interactive telemetry profiles and comprehensive touchdown evaluations.",
+        "Instant World Tour Mode: Skip the setup time. Instantly teleport your aircraft to over 30 breathtaking global landmarks with a single tap for immediate sightseeing."
       ]
     },
     "announcement": {
       "message_id": 7,
       "title": "Massive Leap Forward!",
-      "body": "Welcome to the biggest, most feature-packed update in our history! We have completely leveled up your flight simulation experience across MSFS (2020/2024) and X-Plane. Enjoy absolute command over the skies with our Ultimate Weather Engine, seamless GSX ground handling, deep flight analysis, and interactive TCAS traffic injection.\n\nIMPORTANT: Update your Simulator Station Bridge to ensure flawless syncing for the new failure management and aircraft controls."
+      "body": "Welcome to the biggest, most feature-packed update in our history! We have completely leveled up your flight simulation experience across MSFS (2020/2024) and X-Plane. Enjoy absolute command over the skies with our Ultimate Weather Engine, seamless GSX ground handling, deep flight analysis, and interactive TCAS traffic injection.\n\nATTENTION EXISTING USERS: The connection architecture has been completely overhauled for maximum performance. MSFS users now require the new upgraded Bridge (delivering massive FPS improvements), and X-Plane users now utilize a brand-new connection method. You MUST review the updated Documentation for your specific simulator to connect successfully."
     },
     "promo_banner": {
       "show": false,
