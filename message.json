@@ -1,5 +1,5 @@
 {
-  "new_pass": false,
+  "new_pass": true,
   "ios": {
     "update": {
       "latest_version": "1.0.4",
