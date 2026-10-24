@@ -14,12 +14,12 @@
       ]
     },
     "announcement": {
-      "message_id": 6,
+      "message_id": 7,
       "title": "Massive Leap Forward!",
       "body": "Welcome to the biggest, most feature-packed update in our history! We have completely leveled up your flight simulation experience across MSFS (2020/2024) and X-Plane. Enjoy absolute command over the skies with our Ultimate Weather Engine, seamless GSX ground handling, deep flight analysis, and interactive TCAS traffic injection.\n\nIMPORTANT: Update your Simulator Station Bridge to ensure flawless syncing for the new failure management and aircraft controls."
     },
     "promo_banner": {
-      "show": true,
+      "show": false,
       "banner_id": 4,
       "image_url": "https://raw.githubusercontent.com/osamanabel1999/Sim-app-Assests/refs/heads/main/IMG_3879.png",
       "title": "Ground Handling Perfected",
