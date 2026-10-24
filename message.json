@@ -3,27 +3,27 @@
   "ios": {
     "update": {
       "latest_version": "1.0.4",
-      "title": "MAJOR UPDATE: The Ultimate Training & Datalink Experience",
+      "title": "The Ultimate Simulator Station Update",
       "features": [
-        "LIVE Instructor Operating Station (IOS) with real-time zero-latency cockpit screen sharing and audio.",
-        "Instant Aircraft Repositioning by instructors to practice complex approaches and procedures on the fly.",
-        "Dynamic Failure Injection system allowing instructors to silently trigger unexpected emergencies mid-flight.",
-        "Fully Functional ACARS & CPDLC Datalink with seamless VATSIM and IVAO network integration.",
-        "TELEX Free-Text Messaging to ATC and live network traffic, plus one-tap Quick ATC Requests.",
-        "Authentic CPDLC Station to respond to urgent ATC instructions and file Oceanic Position Reports."
+        "Ultimate Weather Engine: Inject live METARs, custom scenarios, or intense microbursts.",
+        "Complete Ground Handling & GSX: Control boarding, pushback, and all ground vehicles seamlessly.",
+        "Advanced Failure Management: Over 130 realistic system failures, now available for MSFS 2020/2024.",
+        "Interactive TCAS & AI Traffic: Inject traffic, practice wake turbulence, and handle runway incursions.",
+        "Advanced Flight Analysis: Review telemetry graphs, touchdown points, and get deep landing evaluations.",
+        "Instant World Tour Mode: Teleport to over 30 iconic global landmarks with a single tap."
       ]
     },
     "announcement": {
       "message_id": 6,
-      "title": "A Complete Game-Changer is Here!",
-      "body": "Get ready to take your flight simulation experience to an unprecedented level! We are bringing 100% authentic airline datalink operations and a revolutionary Instructor Operating Station directly to your fingertips. Share your live cockpit with an instructor, master complex IFR procedures, send TELEX messages, and respond to ATC via our true-to-life CPDLC interface.\n\nIMPORTANT: To unlock these groundbreaking features and maintain a stable connection, you MUST download the latest Simulator Station Bridge and Broadcast files from the Documentation section. Update your bridge now and see you in the virtual skies!"
+      "title": "Massive Leap Forward!",
+      "body": "Welcome to the biggest, most feature-packed update in our history! We have completely leveled up your flight simulation experience across MSFS (2020/2024) and X-Plane. Enjoy absolute command over the skies with our Ultimate Weather Engine, seamless GSX ground handling, deep flight analysis, and interactive TCAS traffic injection.\n\nIMPORTANT: Update your Simulator Station Bridge to ensure flawless syncing for the new failure management and aircraft controls."
     },
     "promo_banner": {
       "show": true,
       "banner_id": 4,
       "image_url": "https://raw.githubusercontent.com/osamanabel1999/Sim-app-Assests/refs/heads/main/IMG_3879.png",
-      "title": "Study-Level ACARS & CPDLC",
-      "body": "Say goodbye to typing long messages in chat boxes. Send TELEX messages, request clearances, and respond to ATC instantly with our authentic datalink architecture.",
+      "title": "Ground Handling Perfected",
+      "body": "Turnarounds just got incredibly immersive! Manage your entire ground crew, request boarding bridges, and call in all vehicles directly from your device.",
       "button_text": "Explore Now",
       "button_link": ""
     }
