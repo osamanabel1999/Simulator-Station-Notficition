@@ -1,51 +1,58 @@
 {
-  "new_pass": false,
+  "new_pass": true,
   "ios": {
     "update": {
       "latest_version": "1.0.5",
-      "title": "The Ultimate Simulator Station Update",
+      "title": "Major Release: Full Cockpit Integration",
       "features": [
-        "Ultimate Weather Engine: Take absolute command of the skies. Inject live real-world METAR data, build custom conditions, or trigger intense scenarios like severe windshear.",
-        "Complete Ground Handling & GSX: Turnarounds are now incredibly immersive. Seamlessly manage pushback, boarding, and all ground vehicles with full GSX integration.",
-        "Advanced Failure Management: Test your airmanship with over 130 meticulously simulated system failures, now officially supported for MSFS 2020/2024.",
-        "Interactive TCAS & Traffic Injection: Inject custom AI traffic, configure precise crossing scenarios, practice wake turbulence, and handle surprise runway incursions.",
-        "Advanced Flight Analysis: Perfect your landings with deep performance grading. Review beautiful interactive telemetry profiles and comprehensive touchdown evaluations.",
-        "Instant World Tour Mode: Skip the setup time. Instantly teleport your aircraft to over 30 breathtaking global landmarks with a single tap for immediate sightseeing."
+        "Interactive Overhead Panel: Full zero-latency overhead control for ToLiss (A319-A340), Fenix A320 v3, FlyByWire A32NX, and iniBuilds (MSFS 2024).",
+        "Fenix MCDU & EFB Integration: Access and interact with your Fenix MCDU and Electronic Flight Bag directly inside Simulator Station.",
+        "Virtual Flight Control: Turn your iPhone or iPad into a zero-latency gyroscope flight controller with integrated throttle, flaps, spoilers, and brakes.",
+        "Upgraded Head Tracking: Re-engineered for fluid, jitter-free precision that rivals dedicated standalone head-tracking hardware.",
+        "Completely Ad-Free Experience: Permanently removed all banner ads for a clean, focused, distraction-free flight deck.",
+        "Refined UI & Core Fixes: Polished layouts, boosted performance, and resolved altitude discrepancies when repositioning your aircraft."
       ]
     },
     "announcement": {
       "message_id": 9,
-      "title": "Massive Leap Forward!",
-      "body": "Welcome to the biggest, most feature-packed update in our history! We have completely leveled up your flight simulation experience across MSFS (2020/2024) and X-Plane. Enjoy absolute command over the skies with our Ultimate Weather Engine, seamless GSX ground handling, deep flight analysis, and interactive TCAS traffic injection.\n\nATTENTION EXISTING USERS: The connection architecture has been completely overhauled for maximum performance. MSFS users now require the new upgraded Bridge (delivering massive FPS improvements), and X-Plane users now utilize a brand-new connection method. You MUST review the updated Documentation for your specific simulator to connect successfully."
+      "title": "Major Release: A New Level of Control",
+      "body": "Welcome to our biggest leap in cockpit integration yet! Take direct command with our brand-new zero-latency Interactive Overhead Panel (supporting ToLiss, Fenix, FlyByWire, and iniBuilds), native Fenix MCDU & EFB integration, and hardware-free Virtual Flight Control powered by your device's gyroscope.\n\nWe have also permanently removed all ads across the app, significantly upgraded Head Tracking accuracy, and fixed aircraft repositioning altitude bugs. Enjoy a cleaner, faster, and truly connected flight deck."
     },
     "promo_banner": {
       "show": false,
       "banner_id": 4,
       "image_url": "https://raw.githubusercontent.com/osamanabel1999/Sim-app-Assests/refs/heads/main/IMG_3879.png",
-      "title": "Ground Handling Perfected",
-      "body": "Turnarounds just got incredibly immersive! Manage your entire ground crew, request boarding bridges, and call in all vehicles directly from your device.",
+      "title": "Interactive Overhead Panel",
+      "body": "Manage every overhead switch and annunciator with zero latency directly from your screen. Full support for ToLiss, Fenix A320 v3, FlyByWire A32NX, and iniBuilds.",
       "button_text": "Explore Now",
       "button_link": ""
     }
   },
   "android": {
     "update": {
-      "latest_version": "0.0.0",
-      "title": "",
-      "features": []
+      "latest_version": "1.0.7",
+      "title": "Major Release: Full Cockpit Integration",
+      "features": [
+        "Interactive Overhead Panel: Full zero-latency overhead control for ToLiss (A319-A340), Fenix A320 v3, FlyByWire A32NX, and iniBuilds (MSFS 2024).",
+        "Fenix MCDU & EFB Integration: Access and interact with your Fenix MCDU and Electronic Flight Bag directly inside Simulator Station.",
+        "Virtual Flight Control: Turn your phone or tablet into a zero-latency gyroscope flight controller with integrated throttle, flaps, spoilers, and brakes.",
+        "Upgraded Head Tracking: Re-engineered for fluid, jitter-free precision that rivals dedicated standalone head-tracking hardware.",
+        "Completely Ad-Free Experience: Permanently removed all banner ads for a clean, focused, distraction-free flight deck.",
+        "Refined UI & Core Fixes: Polished layouts, boosted performance, and resolved altitude discrepancies when repositioning your aircraft."
+      ]
     },
     "announcement": {
       "message_id": 0,
-      "title": "",
-      "body": ""
+      "title": "Major Release: A New Level of Control",
+      "body": "Welcome to our biggest leap in cockpit integration yet! Take direct command with our brand-new zero-latency Interactive Overhead Panel (supporting ToLiss, Fenix, FlyByWire, and iniBuilds), native Fenix MCDU & EFB integration, and hardware-free Virtual Flight Control powered by your device's gyroscope.\n\nWe have also permanently removed all ads across the app, significantly upgraded Head Tracking accuracy, and fixed aircraft repositioning altitude bugs. Enjoy a cleaner, faster, and truly connected flight deck."
     },
     "promo_banner": {
       "show": false,
       "banner_id": 0,
-      "image_url": "",
-      "title": "",
-      "body": "",
-      "button_text": "",
+      "image_url": "https://raw.githubusercontent.com/osamanabel1999/Sim-app-Assests/refs/heads/main/IMG_3879.png",
+      "title": "Interactive Overhead Panel",
+      "body": "Manage every overhead switch and annunciator with zero latency directly from your screen. Full support for ToLiss, Fenix A320 v3, FlyByWire A32NX, and iniBuilds.",
+      "button_text": "Explore Now",
       "button_link": ""
     }
   }
