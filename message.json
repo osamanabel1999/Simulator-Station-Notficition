@@ -2,7 +2,7 @@
   "new_pass": true,
   "ios": {
     "update": {
-      "latest_version": "1.0.5",
+      "latest_version": "1.0.6",
       "title": "Major Release: Full Cockpit Integration",
       "features": [
         "Interactive Overhead Panel: Full zero-latency overhead control for ToLiss (A319-A340), Fenix A320 v3, FlyByWire A32NX, and iniBuilds (MSFS 2024).",
@@ -14,7 +14,7 @@
       ]
     },
     "announcement": {
-      "message_id": 9,
+      "message_id": 10,
       "title": "Major Release: A New Level of Control",
       "body": "Welcome to our biggest leap in cockpit integration yet! Take direct command with our brand-new zero-latency Interactive Overhead Panel (supporting ToLiss, Fenix, FlyByWire, and iniBuilds), native Fenix MCDU & EFB integration, and hardware-free Virtual Flight Control powered by your device's gyroscope.\n\nWe have also permanently removed all ads across the app, significantly upgraded Head Tracking accuracy, and fixed aircraft repositioning altitude bugs. Enjoy a cleaner, faster, and truly connected flight deck."
     },
